@@ -22,6 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+![animefog572d4v0ceddd](https://user-images.githubusercontent.com/97843561/149682237-30588a26-8a26-4be0-a5ac-ad37f6e308a4.jpg)
 
 [Link](url) and ![Image](src)
 ```
