@@ -1,38 +1,25 @@
-## Welcome to GitHub Pages
+## Pants.com
 
-You can use the [editor on GitHub](https://github.com/PrototypeAdvanced/PrototypeAdvanced.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Welcome!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**My name is pants.**
 
-### Markdown
+_I'm an expert._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`It's easy and fun.`
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![kisspng-laundry-room-wall-decal-sticker-old-brick-wall-frame-5a6a35c6798114 5589409815169eddd](https://user-images.githubusercontent.com/97843561/149683250-af916731-7e96-4ddb-9ea3-58a6bba46822.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-![animefog572d4v0ceddd](https://user-images.githubusercontent.com/97843561/149682237-30588a26-8a26-4be0-a5ac-ad37f6e308a4.jpg)
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrototypeAdvanced/PrototypeAdvanced.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+SITE IN PROGRESS
 
-### Support or Contact
+### TEST
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
