@@ -1,8 +1,8 @@
-# Whatever.com
+# Pants.com
 
 ### Welcome!
 
-**My name is Whatever.**
+**My name is Pants.**
 
 _I'm an expert._
 
@@ -23,8 +23,6 @@ _I'm an expert._
 
 ![2436101](https://user-images.githubusercontent.com/97843561/166932846-f39ae194-177b-47f6-a985-e1ae19024bc7.jpg)
 
-- VISUALIZER PIC
-![xxcubevisualizer](https://user-images.githubusercontent.com/97843561/166933821-8a4eb42b-a2d3-40a3-be5c-ab7907ef1633.png)
 
 
 ```
